@@ -1,4 +1,4 @@
-# LinkedBag_for_Polynomials: (algorithms & data structures III)
+# LinkedBag_for_Polynomials: (algorithms & data structures II)
 
 A LinkedBag implementation to store and carry operations on polynomials of one parameter
 
