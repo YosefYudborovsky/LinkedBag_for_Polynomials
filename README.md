@@ -1,4 +1,4 @@
-# LinkedBag_for_Polynomials: A school project for CSCI 235
+# LinkedBag_for_Polynomials: (algorithms & data structures III)
 
 A LinkedBag implementation to store and carry operations on polynomials of one parameter
 
