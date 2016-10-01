@@ -20,3 +20,7 @@ The Program:
 
 (e) Changes a coefficient for a given exponent.
 
+make all - To compile all sections.
+
+make clean - To remove all *.o and executable files.
+
